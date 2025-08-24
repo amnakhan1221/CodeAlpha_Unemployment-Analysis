@@ -11,9 +11,9 @@ Features:
 6.Actionable insights for policymakers
 
 Project Structure:
-Notebook/Script – Main Colab notebook containing analysis steps
-Dataset – Unemployment in India (from Kaggle)
-Visualizations – Line plots, boxplots, and regional comparisons
+1. Notebook/Script – Main Colab notebook containing analysis steps
+2. Dataset – Unemployment in India (from Kaggle)
+3.Visualizations – Line plots, boxplots, and regional comparisons
 
 Results & Insights:
 1. Before Covid, average unemployment was around 9.4%, which rose to ~15% during Covid-19.
